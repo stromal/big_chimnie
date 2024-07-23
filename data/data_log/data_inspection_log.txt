@@ -1,0 +1,24 @@
+Land Registry File:
+  data/01-pp-complete.csv
+
+NSPL Files:
+
+OSGB Shapefiles:
+  data/03-OSGB_Grids-master/Shapefile/OSGB_Grid_20km.shp
+  data/03-OSGB_Grids-master/Shapefile/OSGB_Grid_100km.shp
+  data/03-OSGB_Grids-master/Shapefile/OSGB_Grid_5km.shp
+  data/03-OSGB_Grids-master/Shapefile/OSGB_Grid_25km.shp
+  data/03-OSGB_Grids-master/Shapefile/OSGB_Grid_1km.shp
+  data/03-OSGB_Grids-master/Shapefile/OSGB_Grid_10km.shp
+  data/03-OSGB_Grids-master/Shapefile/OSGB_Grid_50km.shp
+
+NSPL Statistics:
+  Total CSV Files:
+    0
+  Total TXT Files:
+    0
+
+OSGB Statistics:
+  Total SHP Files:
+    7
+
